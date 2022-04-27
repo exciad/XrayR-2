@@ -23,7 +23,7 @@ var (
 )
 
 var (
-	version  = "0.8.1"
+	version  = "0.8.2"
 	codename = "XrayR - crossfw copy"
 	intro    = "A Xray backend that supports many panels"
 )
