@@ -57,10 +57,10 @@ bash <(curl -Ls https://raw.githubusercontents.com/Misaka-blog/XrayR-script/mast
 ```
 
 ### 使用Docker部署软件
-[Docker部署教程](https://crackair.gitbook.io/xrayr-project/xrayr-xia-zai-he-an-zhuang/install/docker)
+[Docker部署教程](https://crackair.gitbook.io/crossfw/XrayR-xia-zai-he-an-zhuang/install/docker)
 
 ### 手动安装
-[手动安装教程](https://crackair.gitbook.io/xrayr-project/xrayr-xia-zai-he-an-zhuang/install/manual)
+[手动安装教程](https://crackair.gitbook.io/crossfw/XrayR-xia-zai-he-an-zhuang/install/manual)
 
 ## 配置文件及详细使用教程
 
@@ -75,7 +75,7 @@ bash <(curl -Ls https://raw.githubusercontents.com/Misaka-blog/XrayR-script/mast
 
 ## Licence
 
-[Mozilla Public License Version 2.0](https://github.com/XrayR-project/XrayR/blob/master/LICENSE)
+[Mozilla Public License Version 2.0](https://github.com/crossfw/XrayR/blob/master/LICENSE)
 
 ## Telgram
 
@@ -87,5 +87,5 @@ bash <(curl -Ls https://raw.githubusercontents.com/Misaka-blog/XrayR-script/mast
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/XrayR-project/XrayR.svg)](https://starchart.cc/XrayR-project/XrayR)
+[![Stargazers over time](https://starchart.cc/crossfw/XrayR.svg)](https://starchart.cc/crossfw/XrayR)
 

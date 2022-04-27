@@ -11,8 +11,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/XrayR-project/XrayR/api"
 	"github.com/bitly/go-simplejson"
+	"github.com/crossfw/XrayR/api"
 	"github.com/go-resty/resty/v2"
 )
 
